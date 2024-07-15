@@ -7,7 +7,7 @@ I’m Audrey, a self taught Data Analyst from the Philippines. I’m passionate 
 
 - 🎓 Mathematics graduate from Pamantasan ng Lungsod ng Maynila
 - 🌱 I am currently learning SQL
-- ✨ I find data analytics fascinating because it transfroms complex data into meaningful insights
+- ✨ I find data analytics fascinating because it transforms complex data into meaningful insights
 
 ### 🔧 Tools
 
