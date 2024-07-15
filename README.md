@@ -1,7 +1,7 @@
 ## Hello!
 
 
-I’m Audrey, a self taught Data Analyst from the Philippines 🇵🇭. I’m passionate about uncovering patterns and trends within data to drive strategic and impactful outcomes.
+I’m Audrey, a self taught Data Analyst from the Philippines. I’m passionate about uncovering patterns and trends within data to drive strategic and impactful outcomes.
 
 ### 👩‍💻 About me
 
